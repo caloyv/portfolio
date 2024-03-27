@@ -27,10 +27,12 @@ const About = () => {
               I love building stuff 📱
             </h2>
             <p className="font-mulish font-light text-db tracking-[1%] leading-[25px] text-xl">
-              I started playing with computers when I was 5 years-old. Since
-              then I have been tinkering with all sorts of technologies that in
-              some way or another led me to work on automotive, electronics and
-              robotics.
+              I started playing with computers when I was 5 years-old. This
+              early interest has led to a lifelong exploration across diverse
+              fields like automotive, electronics, and robotics. Along this
+              journey, I've found my passion for frontend development, where I
+              thrive on developing intuitive user interfaces and immersive
+              experiences.
             </p>
           </div>
         </div>

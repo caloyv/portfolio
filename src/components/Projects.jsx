@@ -75,7 +75,7 @@ const Projects = ({ windowWidth, handleQrImg, handleModal }) => {
             </div>
           );
         })}
-        <div className="w-full text-center mb-20">
+        <div className="w-full text-center mb-20" id="contact">
           <p
             className="text-og font-bold cursor-pointer inline hover:text-og/80 transition-all"
             onClick={handleClick}
