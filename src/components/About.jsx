@@ -30,7 +30,7 @@ const About = () => {
               I started playing with computers when I was 5 years-old. This
               early interest has led to a lifelong exploration across diverse
               fields like automotive, electronics, and robotics. Along this
-              journey, I've found my passion for frontend development, where I
+              journey, I've found my passion for web development, where I
               thrive on developing intuitive user interfaces and immersive
               experiences.
             </p>
