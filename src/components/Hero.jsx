@@ -50,7 +50,6 @@ const Hero = () => {
             target="_blank"
             alt="My CV"
             rel="noopener noreferrer"
-            // download="carlos-villarta-cv.pdf"
             className="w-full h-full flex justify-center items-center gap-2 font-semibold"
           >
             Download CV
